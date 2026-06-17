@@ -12,11 +12,18 @@ html {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
 }
 
-html {
+html {k
   position: relative;
   min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: 'Lato', sans-serif;
+    background-color: #FAFAFAs
+    color: #222;
+}
+
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    color: #1a1a1a;
 }
